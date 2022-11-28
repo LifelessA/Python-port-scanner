@@ -11,6 +11,10 @@ Step2 - Open shell in pwd( present working directory).
 
 Step3 - $ pip install sockets
 
-Step3 - $ python Scanner.py <System IP>
+Step4 - $ pip install threading
+
+Step5 - $ pip install pandas
+
+Step4 - $ python Scanner.py <System IP>
 
 Then nit Enter<-|
